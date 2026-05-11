@@ -1,0 +1,18 @@
+{
+  "sample_id": "legal-compliance-note",
+  "synthetic": true,
+  "minimization_mode": "illustrative_demo",
+  "redacted_text": "Synthetic legal compliance note. Counsel [PERSON_NAME] prepared a draft for client [PERSON_NAME]. Contact [EMAIL] or [CONTACT_PHONE]. The draft references service at [STREET_ADDRESS] on [DATE].",
+  "entities_total": 6,
+  "entities_by_type": {
+    "PERSON_NAME": 2,
+    "EMAIL": 1,
+    "CONTACT_PHONE": 1,
+    "STREET_ADDRESS": 1,
+    "DATE": 1
+  },
+  "notes": [
+    "Synthetic example only.",
+    "Placeholder choices are illustrative and do not disclose private rules."
+  ]
+}

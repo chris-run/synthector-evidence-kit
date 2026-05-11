@@ -1,0 +1,18 @@
+{
+  "sample_id": "hr-internal-note",
+  "synthetic": true,
+  "minimization_mode": "illustrative_demo",
+  "redacted_text": "Synthetic HR internal note. [PERSON_NAME] reported that candidate [PERSON_NAME] can interview on [DATE]. The scheduling email is [EMAIL], mobile [CONTACT_PHONE], and mailing address [STREET_ADDRESS].",
+  "entities_total": 6,
+  "entities_by_type": {
+    "PERSON_NAME": 2,
+    "EMAIL": 1,
+    "CONTACT_PHONE": 1,
+    "STREET_ADDRESS": 1,
+    "DATE": 1
+  },
+  "notes": [
+    "Synthetic example only.",
+    "Placeholder choices are illustrative and do not disclose private rules."
+  ]
+}

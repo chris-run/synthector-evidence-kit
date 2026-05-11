@@ -1,0 +1,16 @@
+{
+  "name": "synthector-evidence-kit",
+  "version": "1.0.0",
+  "description": "Public synthetic evidence and verifier kit for Synthector.",
+  "type": "module",
+  "scripts": {
+    "test": "node verifier-js/verify-demo-receipt.mjs sample-receipts/contact-center.receipt.json"
+  },
+  "keywords": [
+    "privacy",
+    "ai",
+    "evidence",
+    "verifier"
+  ],
+  "license": "MIT"
+}

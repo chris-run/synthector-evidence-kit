@@ -1,0 +1,6 @@
+{
+  "sample_id": "contact-center",
+  "synthetic": true,
+  "description": "Synthetic contact-center transcript for public demo evidence.",
+  "text": "Synthetic contact-center transcript. Caller Avery Parker asked to update the shipping email to avery.parker@example.test, confirm callback at +1-555-010-0182, and send the replacement to 418 Pine Street, Example City, EX 00000 by 2026-04-18. Agent Mina Lee noted the account was otherwise unchanged."
+}
